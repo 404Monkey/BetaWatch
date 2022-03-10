@@ -1,6 +1,2 @@
-dev/Debug/*
-dev/WheatherStation Debug.launch
-dev/.settings/*
-
 .vscode/*
 build/*
